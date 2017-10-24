@@ -1,0 +1,5 @@
+c:\users\abdulhasib\documents\visual studio 2012\Projects\pracLab1\pracLab1\bin\pracLab1.dll
+c:\users\abdulhasib\documents\visual studio 2012\Projects\pracLab1\pracLab1\bin\pracLab1.pdb
+c:\users\abdulhasib\documents\visual studio 2012\Projects\pracLab1\pracLab1\obj\Debug\pracLab1.csprojResolveAssemblyReference.cache
+c:\users\abdulhasib\documents\visual studio 2012\Projects\pracLab1\pracLab1\obj\Debug\pracLab1.dll
+c:\users\abdulhasib\documents\visual studio 2012\Projects\pracLab1\pracLab1\obj\Debug\pracLab1.pdb
